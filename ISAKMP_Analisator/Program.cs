@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Extensions.Configuration;
 
-namespace program
+namespace Analisator
 
 {
     public class Program
